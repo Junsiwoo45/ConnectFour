@@ -12,6 +12,12 @@
 This program does
 ---
 
-![]()
+### Winner
+![](https://github.com/Junsiwoo45/ConnectFour/blob/main/img/Winner.PNG)
 
+### Create winner
+![](https://github.com/Junsiwoo45/ConnectFour/blob/main/img/createWinner.PNG)
+
+### Board is full
+![](https://github.com/Junsiwoo45/ConnectFour/blob/main/img/boardfull.PNG)
 
